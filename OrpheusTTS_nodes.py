@@ -73,7 +73,7 @@ class SingleTextGeneration:
         return (output_filename, result_message)
 
 
-class LongFormContent:
+class LongTextGeneration:
     @classmethod
     def INPUT_TYPES(cls):
         return {
