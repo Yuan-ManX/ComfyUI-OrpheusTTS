@@ -1,0 +1,15 @@
+[project]
+name = "orpheustts"
+description = "ComfyUI nodes for OrpheusTTS model."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["orpheus-speech"]
+
+[project.urls]
+Repository = "https://github.com/Yuan-ManX/ComfyUI-OrpheusTTS"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-OrpheusTTS"
+Icon = ""
