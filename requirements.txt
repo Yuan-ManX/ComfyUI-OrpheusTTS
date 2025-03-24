@@ -1,1 +1,3 @@
 orpheus-speech
+vllm
+snac
