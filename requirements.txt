@@ -1,3 +1,5 @@
 orpheus-speech
 vllm
 snac
+numpy
+torch
